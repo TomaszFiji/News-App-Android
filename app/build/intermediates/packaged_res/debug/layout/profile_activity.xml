@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pallete4_color4"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/profile_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/profile_title"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:text="@string/email_label"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:id="@+id/email_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/email_hint_profile"
+            tools:ignore="LabelFor" />
+    </LinearLayout>
+
+
+        <!--LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/name_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/name_label"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/name_edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/name_hint"
+                android:minHeight="48dp" />
+        </LinearLayout-->
+
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/country_label"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginEnd="10dp"/>
+
+            <com.google.android.material.textview.MaterialTextView
+                android:textColor="@color/black"
+                android:id="@+id/country_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"/>
+        </LinearLayout>
+
+        <ExpandableListView
+            android:textColor="@color/black"
+            android:id="@+id/countries_expandable_list_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:groupIndicator="@null"
+            android:minHeight="48dp" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_margin="5dp"
+        android:background="@color/pallete4_color2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:cardBackgroundColor="@color/pallete4_color2">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:padding="10dp"
+            android:layout_margin="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:outlineAmbientShadowColor="@color/pallete4_color5"
+            android:elevation="8dp"
+
+            >
+
+            <TextView
+                android:id="@+id/favourite_categories_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/favourite_words_label"
+                android:textColor="#7CB342"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycler_view_profile_activity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="vertical"
+                app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+                app:spanCount="3" />
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/favourite_categories_edit_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/favourite_word_hint"
+                    android:inputType="text"
+                    android:minHeight="48dp"
+                    android:textColor="@color/black"
+                    android:textColorHint="#F8BBD0" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:textColor="@color/black"
+                    android:id="@+id/add_word_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:text="@string/update_button" />
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.button.MaterialButton
+        android:textColor="@color/black"
+        android:onClick="testNotification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/testNotif" />
+
+    <com.google.android.material.button.MaterialButton
+        android:textColor="@color/black"
+        android:onClick="logOut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/logOut" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
+

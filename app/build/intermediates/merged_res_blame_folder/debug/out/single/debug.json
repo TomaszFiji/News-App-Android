@@ -1,0 +1,1302 @@
+[
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_sorting_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\sorting_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_sorting_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\sorting_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_report_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\report_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_technology_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\technology_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_no_notification_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\no_notification_icon_round.png"
+    },
+    {
+        "merged": "com.example.uniapp-merged_res-36:/layout_recycle_view_activity_2.xml.flat",
+        "source": "com.example.uniapp-main-38:/layout/recycle_view_activity_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_search1.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\search1.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_sample_image.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\sample_image.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_no_notification_icon_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\no_notification_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_testpng_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\testpng_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_example_img1.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\example_img1.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_recycle_category.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\recycle_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_bussines_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\bussines_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_no_notification_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\no_notification_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_example_img1.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\example_img1.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_sample_image_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\sample_image_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_news_image2_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\news_image2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_profile_icon_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\profile_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_example_img3_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\example_img3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_more_options.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\more_options.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_share_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\share_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_sample_image_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\sample_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_profile_activity.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\profile_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_sample_image_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\sample_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_sample_image.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\sample_image.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_bookmark_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\bookmark_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_news_image3_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\news_image3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_example_img2_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\example_img2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_example_img1.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\example_img1.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_more_options.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\more_options.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_example_img2.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\example_img2.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_share_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_second_activity.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\second_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_fragment_my_categories.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\fragment_my_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_settings_icon_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\settings_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_share_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_news_image3_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\news_image3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_example_img1_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\example_img1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_news_image3_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\news_image3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_favourite_border_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\favourite_border_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_sorting_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\sorting_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_news_image3.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\news_image3.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_report_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\report_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_favourite_border.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\favourite_border.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_share_icon_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\share_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_news_image3.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\news_image3.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\menu_menu_activity_2.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\menu\\menu_activity_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_example_img3.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\example_img3.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_example_img2_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\example_img2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_sorting_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\sorting_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_example_img1_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\example_img1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_favourite_border.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\favourite_border.xml"
+    },
+    {
+        "merged": "com.example.uniapp-merged_res-36:/layout_second_activity.xml.flat",
+        "source": "com.example.uniapp-main-38:/layout/second_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_bookmark_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\bookmark_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_news_image3_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\news_image3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_no_notification_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\no_notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_report_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\report_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_settings_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\settings_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_bookmark_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\bookmark_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_sorting_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\sorting_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_no_notification_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\no_notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_no_notification_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\no_notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_more_options.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\more_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_news_image2.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\news_image2.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_no_notification_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\no_notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_report_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\report_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_report_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\report_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_sport_icon_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\sport_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_bookmark_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\bookmark_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_settings_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\settings_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_sorting_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\sorting_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_sample_image.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\sample_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_sample_image_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\sample_image_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_favourite_border_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\favourite_border_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_news_image3_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\news_image3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_example_img2_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\example_img2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_arrow_forward_icon_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\arrow_forward_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_bookmark_icon_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\bookmark_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_sample_image_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\sample_image_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_arrow_forward_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\arrow_forward_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_example_img3_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\example_img3_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_no_notification_icon_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\no_notification_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_example_img3_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\example_img3_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_news_image3_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\news_image3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_more_options_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\more_options_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_favourite_border.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\favourite_border.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_sport_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\sport_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_news_image2.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\news_image2.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_fragment_favourites.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\fragment_favourites.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_news_image3_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\news_image3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_arrow_forward_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\arrow_forward_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_arrow_back_icon_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\arrow_back_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_favourite_border_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\favourite_border_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_more_options.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\more_options.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_arrow_forward_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\arrow_forward_icon.png"
+    },
+    {
+        "merged": "com.example.uniapp-merged_res-36:/layout_login_activity.xml.flat",
+        "source": "com.example.uniapp-main-38:/layout/login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_report_icon_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\report_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\menu_menu_activity_3.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\menu\\menu_activity_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_sport_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\sport_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_world_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\world_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_report_icon_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\report_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_example_img1_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\example_img1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_favourite_border_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\favourite_border_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_example_img3_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\example_img3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_report_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\report_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_news_image_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\news_image_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_arrow_forward_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\arrow_forward_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_sport_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\sport_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_sample_image_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\sample_image_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_testpng_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\testpng_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_example_img1_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\example_img1_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_example_img1.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\example_img1.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_example_img2.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\example_img2.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_testpng.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\testpng.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_no_notification_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\no_notification_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_bookmark_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\bookmark_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_arrow_back_icon_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\arrow_back_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_more_options_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\more_options_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_report_icon_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\report_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_sample_image_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\sample_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_more_options_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\more_options_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_health_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\health_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_profile_icon_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\profile_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_example_img1_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\example_img1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_news_image2_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\news_image2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_sorting_icon_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\sorting_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_profile_icon_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\profile_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_arrow_forward_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\arrow_forward_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_settings_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\settings_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_bookmark_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\bookmark_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_settings_icon_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\settings_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_example_img1.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\example_img1.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_favourite_border_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\favourite_border_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_settings_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\settings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_testpng_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\testpng_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_sport_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\sport_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_sorting_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\sorting_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_share_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_news_image3_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\news_image3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_more_options_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\more_options_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_example_img3.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\example_img3.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_sample_image.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\sample_image.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_testpng_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\testpng_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_profile_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\profile_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_favourite_border.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\favourite_border.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_share_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\share_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_news_image3_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\news_image3_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_favourite_border.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\favourite_border.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_no_notification_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\no_notification_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_bookmark_icon_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\bookmark_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_more_options_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\more_options_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_sport_icon_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\sport_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_testpng_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\testpng_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_sport_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\sport_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_more_options_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\more_options_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_profile_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\profile_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_application_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\application_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_profile_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\profile_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_settings_icon_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\settings_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_testpng.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\testpng.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_news_image2.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\news_image2.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_more_options.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\more_options.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_example_img3_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\example_img3_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_favourite_border_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\favourite_border_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_sport_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\sport_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_report_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\report_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_recycle_view_activity_3_main.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\recycle_view_activity_3_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_more_options_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\more_options_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_news_image2_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\news_image2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_share_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\share_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_favourite_border_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\favourite_border_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_profile_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\profile_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_more.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\more.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_example_img3.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\example_img3.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_share_icon_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\share_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_arrow_forward_icon_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\arrow_forward_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_login_activity.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_sample_image_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\sample_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_example_img3_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\example_img3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_sample_image.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\sample_image.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_sorting_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\sorting_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_sport_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\sport_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_sorting_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\sorting_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_news_image2_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\news_image2_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_settings_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\settings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_report_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\report_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_news_image3.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\news_image3.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_news_image3_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\news_image3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_example_img3_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\example_img3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_news_image2_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\news_image2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_example_img2.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\example_img2.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_testpng_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\testpng_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_fragment_activity_2.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\fragment_activity_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_example_img1_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\example_img1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_testpng_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\testpng_round.png"
+    },
+    {
+        "merged": "com.example.uniapp-merged_res-36:/layout_recycle_category.xml.flat",
+        "source": "com.example.uniapp-main-38:/layout/recycle_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_no_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\no_notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_share_icon_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\share_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_testpng.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\testpng.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_ref1.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\ref1.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_arrow_forward_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\arrow_forward_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_example_img1_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\example_img1_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_testpng.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\testpng.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_profile_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_notification_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\notification_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_sport_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\sport_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_example_img2.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\example_img2.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_sorting_icon_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\sorting_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_no_notification_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\no_notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_testpng.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\testpng.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_favourite_border_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\favourite_border_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_share_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uniapp-merged_res-36:/layout_recycle_view_word.xml.flat",
+        "source": "com.example.uniapp-main-38:/layout/recycle_view_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_news_image3_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\news_image3_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_share_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\share_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_arrow_forward_icon_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\arrow_forward_icon_background.xml"
+    },
+    {
+        "merged": "com.example.uniapp-merged_res-36:/layout_profile_activity.xml.flat",
+        "source": "com.example.uniapp-main-38:/layout/profile_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_example_img2.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\example_img2.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_country_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\country_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_news_image2.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\news_image2.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_favourite_border.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\favourite_border.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_share_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_bookmark_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\bookmark_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_settings_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\settings_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_example_img2_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\example_img2_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_bookmark_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\bookmark_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_bookmark_icon_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\bookmark_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_news_image2.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\news_image2.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_sample_image_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\sample_image_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_arrow_forward_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\arrow_forward_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_settings_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\settings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_example_img3.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\example_img3.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_news_image2_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\news_image2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_notification_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\notification_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_news_image3.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\news_image3.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_no_notification_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\no_notification_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_example_img3.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\example_img3.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_sorting_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\sorting_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_report_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\report_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_sample_image.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\sample_image.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_entertainment_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\entertainment_icon.xml"
+    },
+    {
+        "merged": "com.example.uniapp-merged_res-36:/layout_fragment_favourites.xml.flat",
+        "source": "com.example.uniapp-main-38:/layout/fragment_favourites.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_share_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\share_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_example_img2_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\example_img2_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_example_img1.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\example_img1.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_settings_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\settings_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_sample_image_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\sample_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_sports_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\sports_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_recycle_view_word.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\recycle_view_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_sport_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\sport_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_bookmark_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\bookmark_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_news_image3_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\news_image3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_third_activity.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\third_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_sample_image_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\sample_image_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_profile_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\profile_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_recycle_view_activity_2.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\recycle_view_activity_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_news_image3.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\news_image3.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_settings_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\settings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_science_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\science_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_testpng_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\testpng_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_share_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\share_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_more_options_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\more_options_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_arrow_forward_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\arrow_forward_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_general_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\general_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_sport_icon_background.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\drawable\\sport_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_sorting_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\sorting_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_arrow_forward_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\arrow_forward_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_remove_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\remove_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_news_image2_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\news_image2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_news_image3.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\news_image3.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_more_options.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\more_options.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_recycle_view_activity_3.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\recycle_view_activity_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_news_image2_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\news_image2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_sample_image_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\sample_image_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_no_notification_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\no_notification_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_bookmark_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\bookmark_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_example_img3_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\example_img3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_example_img2.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\example_img2.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_example_img3.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\example_img3.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_arrow_forward_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\arrow_forward_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xhdpi_news_image2_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xhdpi\\news_image2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\layout_list_group.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\layout\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_sport_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\sport_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_example_img2_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\example_img2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_example_img1_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\example_img1_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_report_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\report_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_news_image2_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\news_image2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_testpng.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\testpng.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-mdpi_news_image2_foreground.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-mdpi\\news_image2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_report_icon.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\report_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxhdpi_example_img2_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxhdpi\\example_img2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_news_image2.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\news_image2.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_arrow_forward_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\arrow_forward_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_sport_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\sport_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_news_image2_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\news_image2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_profile_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\profile_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable_favourite.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable\\favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_bookmark_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\bookmark_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_example_img2_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\example_img2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-anydpi-v26_sorting_icon_round.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-anydpi-v26\\sorting_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-hdpi_settings_icon_round.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-hdpi\\settings_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-main-38:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-merged_res-36:\\mipmap-xxxhdpi_settings_icon.png.flat",
+        "source": "C:\\Users\\tfija\\.gradle\\daemon\\7.4\\com.example.uniapp-debug-37:\\mipmap-xxxhdpi\\settings_icon.png"
+    }
+]

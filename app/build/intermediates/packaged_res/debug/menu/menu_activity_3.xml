@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share_icon_foreground"
+        android:title="Share"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:icon="@drawable/bookmark_icon_foreground"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:icon="@drawable/more_options_foreground"
+        android:title="More"
+        app:showAsAction="ifRoom" />
+</menu>

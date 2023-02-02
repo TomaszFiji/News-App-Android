@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pallete4_color4"
+    android:orientation="vertical"
+    tools:context=".SecondActivity">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar_activity_2"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="@color/pallete4_color2"
+        app:titleTextColor="@android:color/white" />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--Your comment-->
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="20dp"
+                android:orientation="vertical"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+
+                <view
+                    android:id="@+id/recycler_view_activity_2"
+                    class="androidx.recyclerview.widget.RecyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="vertical" />
+
+
+
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+        </ScrollView>
+
+        <!--View
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/pallete3_color5"/>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:layout_marginBottom="50dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.2"
+                android:background="@color/pallete4_color2"
+                android:onClick="previousCategory"
+                android:src="@drawable/arrow_back_icon_foreground" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.6"
+                android:background="@color/pallete4_color4"
+                android:gravity="center"
+                android:outlineSpotShadowColor="@color/black"
+                android:text="@string/cat1"
+                android:textSize="28dp" />
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.2"
+                android:background="@color/pallete4_color2"
+                android:onClick="nextCategory"
+                android:src="@drawable/arrow_forward_icon_foreground" />
+        <-androidx.appcompat.widget.LinearLayoutCompat-->
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
