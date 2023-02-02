@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:contentDescription="Refresh"
+       
+        android:icon="@drawable/search1"
+        android:title="Profile"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:icon="@drawable/sorting_icon_foreground"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:icon="@drawable/more_options_foreground"
+        android:title="More"
+        app:showAsAction="ifRoom" />
+</menu>

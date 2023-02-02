@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="start">Tap an item from action bar menu</string>
+    <string name="link">The Link was clicked</string>
+    <string name="logoff">Logoff was clicked</string>
+    <string name="profile">Profile Icon was clicked</string>
+    <string name="refresh">Refresh Icon was clicked</string>
+    <string name="settings_xml">Settings</string>
+    <string name="refresh_xml">Refresh</string>
+    <string name="log_xml">Log Off</string>
+    <string name="profile_xml">Profile Page</string>
+    <string name="linked">Linked Accounts</string>
+    <string name="movTitle">Movies Screen</string>
+    <string name="gameTitle">Games Screen</string>
+    <string name="tvTitle">TV Screen</string>
+    <string name="sport">Sport</string>
+    <string name="example1">Example 1</string>
+    <string name="example2">Example 2</string>
+    <string name="example3">Example 3</string>
+    <string-array name="tabTitles">
+        <item>All categories</item>
+        <item>My categories</item>
+        <item>My publishers</item>
+        <item>My newsletters</item>
+    </string-array>
+    <string name="title">Title... ipsum dolor sit amet, consectetur adipiscing.</string>
+    <string name="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus tellus vel libero ultrices, ac sodales felis sodales. Cras luctus dolor justo, et maximus lorem dictum sed. Aenean nisl lacus, faucibus in quam vel, hendrerit semper diam. Vestibulum vehicula volutpat felis eu efficitur. Pellentesque porttitor est id massa accumsan congue. Aliquam lobortis turpis in metus porta, ut egestas massa luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed justo porttitor, semper sapien sit amet, euismod diam. Sed ut arcu ultricies, accumsan tellus quis, aliquam sem. Nulla a pharetra ligula, quis tincidunt magna. Nunc laoreet sollicitudin neque, eu tristique tortor auctor vel. Morbi tempor vehicula erat, ac tristique dolor rutrum at. Nunc magna nibh, mollis vitae ligula sed, egestas accumsan tellus. Nunc rutrum aliquet fermentum.</string>
+    <string name="minutes_ago">x minutes ago</string>
+    <string name="paragraph2">Nulla aliquet, tortor non elementum dictum, sapien ipsum scelerisque arcu, imperdiet congue mi lorem eu leo. Ut dolor erat, feugiat eu consectetur sed, feugiat vel turpis. Phasellus dignissim pellentesque tortor, vel fermentum nibh pellentesque non. Nunc sit amet dapibus ante. Phasellus faucibus nisi at elit commodo mattis. Mauris lacinia rutrum nunc nec tincidunt. Nullam vehicula tellus id erat porta, sit amet semper odio auctor. Vivamus pharetra tortor sit.</string>
+    <string name="short_paragraph">Sed ornare felis metus, ac porttitor leo venenatis sed. Ut malesuada maximus nisl in ultrices. Ut ac vulputate libero. Ut scelerisque justo erat, quis ullamcorper nulla gravida at. Donec lobortis urna a dictum sagittis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.</string>
+    <string name="publisher">BBC</string>
+    <string name="subscribe">SUBSCRIBE</string>
+    <string name="also_like">You might also like</string>
+    "UK News", "World News", "Sport", "Culture", "UK Politics",
+    "Life Style", "Education", "Science", "Coronavirus", "Environment"
+
+    <string name="cat1">UK News</string>
+    <string name="cat2">World News</string>
+    <string name="cat3">Sport</string>
+    <string name="cat4">Culture</string>
+    <string name="cat5">UK Politics</string>
+    <string name="cat6">Life Style</string>
+    <string name="cat7">Education</string>
+    <string name="cat8">Science</string>
+    <string name="cat9">Coronavirus</string>
+    <string name="cat10">Environment</string>
+</resources>

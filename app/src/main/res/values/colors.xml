@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pallete1_color1">#D3BDB0</color>
+    <color name="pallete1_color2">#C1AE9F</color>
+    <color name="pallete1_color3">#89937C</color>
+    <color name="pallete1_color4">#715B64</color>
+    <color name="pallete1_color5">#69385C</color>
+    <color name="pallete2_color1">#B7D3F2</color>
+    <color name="pallete2_color2">#AFAFDC</color>
+    <color name="pallete2_color3">#8A84E2</color>
+    <color name="pallete2_color4">#84AFE6</color>
+    <color name="pallete2_color5">#79BEEE</color>
+    <color name="subscribe_red">#66FF0000</color>
+    <color name="pallete3_color1">#966B9D</color>
+    <color name="pallete3_color2">#C98686</color>
+    <color name="pallete3_color3">#F2B880</color>
+    <color name="pallete3_color4">#FFF4EC</color>
+    <color name="pallete3_color5">#E7CFBC</color>
+    <color name="pallete4_color1">#F0F2EF</color>
+    <color name="pallete4_color2">#5C5346</color>
+    <color name="pallete4_color3">#AFD5AA</color>
+    <color name="pallete4_color4">#A69F98</color>
+    <color name="pallete4_color5">#8C6057</color>
+</resources>
