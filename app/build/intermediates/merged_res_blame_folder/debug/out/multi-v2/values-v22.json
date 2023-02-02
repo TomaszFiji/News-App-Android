@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.uniapp-mergeDebugResources-28:/values-v22/values-v22.xml",
+            "outputFile": "com.example.uniapp-mergeDebugResources-34:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tfija\\.gradle\\caches\\transforms-3\\685980b024686d78956b91eec9b43f3b\\transformed\\appcompat-1.5.1\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\tfija\\.gradle\\caches\\transforms-3\\657a435f1f2548717eca968888beb204\\transformed\\appcompat-1.5.1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

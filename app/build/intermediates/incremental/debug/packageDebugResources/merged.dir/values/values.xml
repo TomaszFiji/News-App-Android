@@ -111,7 +111,6 @@
     <string name="title">Title... ipsum dolor sit amet, consectetur adipiscing.</string>
     <string name="tvTitle">TV Screen</string>
     <string name="update_button">Add</string>
-    <string name="word">Word</string>
     <style name="Theme.UniApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         
         <item name="colorPrimary">@color/pallete4_color5</item>

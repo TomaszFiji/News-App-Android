@@ -21,13 +21,44 @@
         android:orientation="vertical">
 
         <!--Your comment-->
-        <androidx.viewpager2.widget.ViewPager2
-            android:id="@+id/pager_activity_2"
+        <ScrollView
             android:layout_width="match_parent"
-            android:layout_height="600dp"
-            android:layout_weight="1" />
+            android:layout_height="fill_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
 
-        <View
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="20dp"
+                android:orientation="vertical"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+
+                <view
+                    android:id="@+id/recycler_view_activity_2"
+                    class="androidx.recyclerview.widget.RecyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="vertical" />
+
+
+
+
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+        </ScrollView>
+
+        <!--View
             android:layout_marginTop="3dp"
             android:layout_width="match_parent"
             android:layout_height="1px"
@@ -68,7 +99,7 @@
                 android:background="@color/pallete4_color2"
                 android:onClick="nextCategory"
                 android:src="@drawable/arrow_forward_icon_foreground" />
-        </androidx.appcompat.widget.LinearLayoutCompat>
+        <-androidx.appcompat.widget.LinearLayoutCompat-->
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 

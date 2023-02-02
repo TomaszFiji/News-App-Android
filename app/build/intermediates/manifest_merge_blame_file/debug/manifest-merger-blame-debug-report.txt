@@ -10,91 +10,347 @@
 9        android:targetSdkVersion="32" />
 9-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml
 10
-11    <application
-11-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:5:5-36:19
-12        android:allowBackup="true"
-12-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:6:9-35
-13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.8.0] C:\Users\tfija\.gradle\caches\transforms-3\6a19de105318aab1da00cfa3c60fb56e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
-14        android:dataExtractionRules="@xml/data_extraction_rules"
-14-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:7:9-65
-15        android:debuggable="true"
-16        android:extractNativeLibs="false"
-17        android:fullBackupContent="@xml/backup_rules"
-17-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:8:9-54
-18        android:icon="@mipmap/ic_launcher"
-18-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:9:9-43
-19        android:label="@string/app_name"
-19-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:10:9-41
-20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:11:9-54
-21        android:supportsRtl="true"
-21-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:12:9-35
-22        android:testOnly="true"
-23        android:theme="@style/Theme.UniApp" >
-23-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:13:9-44
-24        <activity
-24-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:15:9-18:67
-25            android:name="com.example.uniapp.ThirdActivity"
-25-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:16:13-42
-26            android:exported="true"
-26-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:17:13-36
-27            android:parentActivityName="com.example.uniapp.MainActivity" />
-27-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:18:13-55
-28        <activity
-28-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:19:9-22:67
-29            android:name="com.example.uniapp.SecondActivity"
-29-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:20:13-43
-30            android:exported="true"
-30-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:21:13-36
-31            android:parentActivityName="com.example.uniapp.MainActivity" />
-31-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:22:13-55
-32        <activity
-32-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:23:9-35:20
-33            android:name="com.example.uniapp.MainActivity"
-33-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:24:13-41
-34            android:exported="true" >
-34-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:25:13-36
-35            <intent-filter>
-35-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:26:13-30:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:27:17-69
-36-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:27:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:29:17-77
-38-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:29:27-74
-39            </intent-filter>
-40
-41            <meta-data
-41-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:32:13-34:36
-42                android:name="android.app.lib_name"
-42-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:33:17-52
-43                android:value="" />
-43-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:34:17-33
-44        </activity>
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+12-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:24:5-79
+13-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:24:22-76
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\4ba5dfecdb5ad425545004dba2645c47\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+14-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\4ba5dfecdb5ad425545004dba2645c47\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:24:22-65
+15    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+15-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\4ba5dfecdb5ad425545004dba2645c47\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+15-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\4ba5dfecdb5ad425545004dba2645c47\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:25:22-76
+16    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+16-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:26:5-110
+16-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:26:22-107
+17
+18    <application
+18-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:7:5-60:19
+19        android:allowBackup="true"
+19-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:8:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.8.0] C:\Users\tfija\.gradle\caches\transforms-3\17e0468e6f8477414592a37caea74940\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+21        android:dataExtractionRules="@xml/data_extraction_rules"
+21-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:9:9-65
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:fullBackupContent="@xml/backup_rules"
+24-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:10:9-54
+25        android:icon="@drawable/application_icon"
+25-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:11:9-50
+26        android:label="@string/app_name"
+26-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:12:9-41
+27        android:roundIcon="@drawable/application_icon"
+27-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:13:9-55
+28        android:supportsRtl="true"
+28-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:14:9-35
+29        android:testOnly="true"
+30        android:theme="@style/Theme.UniApp" >
+30-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:15:9-44
+31        <service
+31-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:17:9-20:60
+32            android:name="com.example.uniapp.ArticleCheckService"
+32-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:18:13-48
+33            android:parentActivityName=".ProfileActivity"
+33-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:20:13-58
+34            android:permission="android.permission.BIND_JOB_SERVICE" />
+34-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:19:13-69
+35
+36        <activity
+36-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:21:9-32:20
+37            android:name="com.example.uniapp.ThirdActivity"
+37-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:22:13-42
+38            android:exported="true"
+38-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:23:13-36
+39            android:parentActivityName="com.example.uniapp.SecondActivity" >
+39-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:24:13-57
+40            <intent-filter>
+40-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:25:13-31:29
+41                <action android:name="android.intent.action.VIEW" />
+41-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:26:17-69
+41-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:26:25-66
+42
+43                <category android:name="android.intent.category.DEFAULT" />
+43-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:27:17-76
+43-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:27:27-73
+44                <category android:name="android.intent.category.BROWSABLE" />
+44-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:28:17-78
+44-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:28:27-75
 45
-46        <provider
-46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-47            android:name="androidx.startup.InitializationProvider"
-47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-48            android:authorities="com.example.uniapp.androidx-startup"
-48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-49            android:exported="false" >
-49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-50            <meta-data
-50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-52                android:value="androidx.startup" />
-52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-53            <meta-data
-53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\tfija\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\tfija\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-55                android:value="androidx.startup" />
-55-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\tfija\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-56        </provider>
-57    </application>
-58
-59</manifest>
+46                <data android:scheme="http" />
+46-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:29:17-47
+46-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:29:23-44
+47                <data android:scheme="https" />
+47-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:29:17-47
+47-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:29:23-44
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:33:9-36:58
+51            android:name="com.example.uniapp.SecondActivity"
+51-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:34:13-43
+52            android:exported="true"
+52-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:35:13-36
+53            android:parentActivityName="com.example.uniapp.MainActivity" />
+53-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:36:13-55
+54        <activity
+54-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:37:9-40:59
+55            android:name="com.example.uniapp.MainActivity"
+55-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:38:13-41
+56            android:exported="true"
+56-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:39:13-36
+57            android:parentActivityName="com.example.uniapp.LoginActivity" />
+57-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:40:13-56
+58        <activity
+58-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:42:9-45:58
+59            android:name="com.example.uniapp.ProfileActivity"
+59-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:43:13-44
+60            android:exported="true"
+60-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:44:13-36
+61            android:parentActivityName="com.example.uniapp.MainActivity" />
+61-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:45:13-55
+62        <activity
+62-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:46:9-58:20
+63            android:name="com.example.uniapp.LoginActivity"
+63-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:47:13-42
+64            android:exported="true" >
+64-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:48:13-36
+65            <intent-filter>
+65-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:49:13-53:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:50:17-69
+66-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:50:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:52:17-77
+68-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:52:27-74
+69            </intent-filter>
+70
+71            <meta-data
+71-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:55:13-57:36
+72                android:name="android.app.lib_name"
+72-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:56:17-52
+73                android:value="" />
+73-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:57:17-33
+74        </activity>
+75
+76        <service
+76-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\723f376db8f446f18ef30ff271a264f7\transformed\firebase-auth-ktx-21.1.0\AndroidManifest.xml:8:9-14:19
+77            android:name="com.google.firebase.components.ComponentDiscoveryService"
+77-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\723f376db8f446f18ef30ff271a264f7\transformed\firebase-auth-ktx-21.1.0\AndroidManifest.xml:9:13-84
+78            android:directBootAware="true"
+78-->[com.google.firebase:firebase-common:20.2.0] C:\Users\tfija\.gradle\caches\transforms-3\fe80a06bcc12b69dcbf7ae7ee184c70c\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+79            android:exported="false" >
+79-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\723f376db8f446f18ef30ff271a264f7\transformed\firebase-auth-ktx-21.1.0\AndroidManifest.xml:10:13-37
+80            <meta-data
+80-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\723f376db8f446f18ef30ff271a264f7\transformed\firebase-auth-ktx-21.1.0\AndroidManifest.xml:11:13-13:85
+81                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+81-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\723f376db8f446f18ef30ff271a264f7\transformed\firebase-auth-ktx-21.1.0\AndroidManifest.xml:12:17-116
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\723f376db8f446f18ef30ff271a264f7\transformed\firebase-auth-ktx-21.1.0\AndroidManifest.xml:13:17-82
+83            <meta-data
+83-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\tfija\.gradle\caches\transforms-3\1b462f71b081b1894a81972be63ff461\transformed\firebase-database-ktx-20.1.0\AndroidManifest.xml:14:13-16:85
+84                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+84-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\tfija\.gradle\caches\transforms-3\1b462f71b081b1894a81972be63ff461\transformed\firebase-database-ktx-20.1.0\AndroidManifest.xml:15:17-124
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\tfija\.gradle\caches\transforms-3\1b462f71b081b1894a81972be63ff461\transformed\firebase-database-ktx-20.1.0\AndroidManifest.xml:16:17-82
+86            <meta-data
+86-->[com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\287f6ea87575498e33e119c8cac16cc4\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:11:13-13:85
+87                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+87-->[com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\287f6ea87575498e33e119c8cac16cc4\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:12:17-126
+88                android:value="com.google.firebase.components.ComponentRegistrar" />
+88-->[com.google.firebase:firebase-analytics-ktx:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\287f6ea87575498e33e119c8cac16cc4\transformed\firebase-analytics-ktx-21.2.0\AndroidManifest.xml:13:17-82
+89            <meta-data
+89-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\tfija\.gradle\caches\transforms-3\15c0740a638f104050c57508cae4a315\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
+90                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+90-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\tfija\.gradle\caches\transforms-3\15c0740a638f104050c57508cae4a315\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:15:17-113
+91                android:value="com.google.firebase.components.ComponentRegistrar" />
+91-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\tfija\.gradle\caches\transforms-3\15c0740a638f104050c57508cae4a315\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:16:17-82
+92            <meta-data
+92-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
+93                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+93-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:68:17-109
+94                android:value="com.google.firebase.components.ComponentRegistrar" />
+94-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:69:17-82
+95            <meta-data
+95-->[com.google.firebase:firebase-database:20.1.0] C:\Users\tfija\.gradle\caches\transforms-3\fe62d17d7d48a6e09b5b7f44570c1a0a\transformed\firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+96                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+96-->[com.google.firebase:firebase-database:20.1.0] C:\Users\tfija\.gradle\caches\transforms-3\fe62d17d7d48a6e09b5b7f44570c1a0a\transformed\firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+97                android:value="com.google.firebase.components.ComponentRegistrar" />
+97-->[com.google.firebase:firebase-database:20.1.0] C:\Users\tfija\.gradle\caches\transforms-3\fe62d17d7d48a6e09b5b7f44570c1a0a\transformed\firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+98            <meta-data
+98-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\4ba5dfecdb5ad425545004dba2645c47\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
+99                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+99-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\4ba5dfecdb5ad425545004dba2645c47\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139
+100                android:value="com.google.firebase.components.ComponentRegistrar" />
+100-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\4ba5dfecdb5ad425545004dba2645c47\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
+101            <meta-data
+101-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\tfija\.gradle\caches\transforms-3\aa3d8ba68b067739bf66653538daa78b\transformed\firebase-installations-17.1.0\AndroidManifest.xml:17:13-19:85
+102                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+102-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\tfija\.gradle\caches\transforms-3\aa3d8ba68b067739bf66653538daa78b\transformed\firebase-installations-17.1.0\AndroidManifest.xml:18:17-127
+103                android:value="com.google.firebase.components.ComponentRegistrar" />
+103-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\tfija\.gradle\caches\transforms-3\aa3d8ba68b067739bf66653538daa78b\transformed\firebase-installations-17.1.0\AndroidManifest.xml:19:17-82
+104        </service>
+105
+106        <activity
+106-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:27:9-44:20
+107            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+107-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:28:13-80
+108            android:excludeFromRecents="true"
+108-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:29:13-46
+109            android:exported="true"
+109-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:30:13-36
+110            android:launchMode="singleTask"
+110-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:31:13-44
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+111-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:32:13-72
+112            <intent-filter>
+112-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:33:13-43:29
+113                <action android:name="android.intent.action.VIEW" />
+113-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:26:17-69
+113-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:26:25-66
+114
+115                <category android:name="android.intent.category.DEFAULT" />
+115-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:27:17-76
+115-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:27:27-73
+116                <category android:name="android.intent.category.BROWSABLE" />
+116-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:28:17-78
+116-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:28:27-75
+117
+118                <data
+118-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:29:17-47
+119                    android:host="firebase.auth"
+120                    android:path="/"
+121                    android:scheme="genericidp" />
+121-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:29:23-44
+122            </intent-filter>
+123        </activity>
+124        <activity
+124-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:45:9-62:20
+125            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+125-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:46:13-79
+126            android:excludeFromRecents="true"
+126-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:47:13-46
+127            android:exported="true"
+127-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:48:13-36
+128            android:launchMode="singleTask"
+128-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:49:13-44
+129            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+129-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:50:13-72
+130            <intent-filter>
+130-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\tfija\.gradle\caches\transforms-3\d4e42196d5c8d8fb766f7432ae6cadcf\transformed\firebase-auth-21.1.0\AndroidManifest.xml:51:13-61:29
+131                <action android:name="android.intent.action.VIEW" />
+131-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:26:17-69
+131-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:26:25-66
+132
+133                <category android:name="android.intent.category.DEFAULT" />
+133-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:27:17-76
+133-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:27:27-73
+134                <category android:name="android.intent.category.BROWSABLE" />
+134-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:28:17-78
+134-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:28:27-75
+135
+136                <data
+136-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:29:17-47
+137                    android:host="firebase.auth"
+138                    android:path="/"
+139                    android:scheme="recaptcha" />
+139-->C:\Users\tfija\AndroidStudioProjects\UniApp\app\src\main\AndroidManifest.xml:29:23-44
+140            </intent-filter>
+141        </activity>
+142
+143        <provider
+143-->[com.google.firebase:firebase-common:20.2.0] C:\Users\tfija\.gradle\caches\transforms-3\fe80a06bcc12b69dcbf7ae7ee184c70c\transformed\firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+144            android:name="com.google.firebase.provider.FirebaseInitProvider"
+144-->[com.google.firebase:firebase-common:20.2.0] C:\Users\tfija\.gradle\caches\transforms-3\fe80a06bcc12b69dcbf7ae7ee184c70c\transformed\firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+145            android:authorities="com.example.uniapp.firebaseinitprovider"
+145-->[com.google.firebase:firebase-common:20.2.0] C:\Users\tfija\.gradle\caches\transforms-3\fe80a06bcc12b69dcbf7ae7ee184c70c\transformed\firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+146            android:directBootAware="true"
+146-->[com.google.firebase:firebase-common:20.2.0] C:\Users\tfija\.gradle\caches\transforms-3\fe80a06bcc12b69dcbf7ae7ee184c70c\transformed\firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+147            android:exported="false"
+147-->[com.google.firebase:firebase-common:20.2.0] C:\Users\tfija\.gradle\caches\transforms-3\fe80a06bcc12b69dcbf7ae7ee184c70c\transformed\firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+148            android:initOrder="100" />
+148-->[com.google.firebase:firebase-common:20.2.0] C:\Users\tfija\.gradle\caches\transforms-3\fe80a06bcc12b69dcbf7ae7ee184c70c\transformed\firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+149
+150        <activity
+150-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\tfija\.gradle\caches\transforms-3\87429f3dc79d935909b1ebf6b81816ff\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+151            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+151-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\tfija\.gradle\caches\transforms-3\87429f3dc79d935909b1ebf6b81816ff\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+152            android:exported="false"
+152-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\tfija\.gradle\caches\transforms-3\87429f3dc79d935909b1ebf6b81816ff\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+153            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+153-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\tfija\.gradle\caches\transforms-3\87429f3dc79d935909b1ebf6b81816ff\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+154
+155        <receiver
+155-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
+156            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+156-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
+157            android:enabled="true"
+157-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
+158            android:exported="false" >
+158-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
+159        </receiver>
+160
+161        <service
+161-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
+162            android:name="com.google.android.gms.measurement.AppMeasurementService"
+162-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
+163            android:enabled="true"
+163-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
+164            android:exported="false" />
+164-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
+165        <service
+165-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
+166            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+166-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
+167            android:enabled="true"
+167-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
+168            android:exported="false"
+168-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
+169            android:permission="android.permission.BIND_JOB_SERVICE" />
+169-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\tfija\.gradle\caches\transforms-3\692bde35df9866ec5d17a14d93f8bcbb\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
+170
+171        <meta-data
+171-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\tfija\.gradle\caches\transforms-3\175d189b8347bb7ab1f59dad2ae52465\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+172            android:name="com.google.android.gms.version"
+172-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\tfija\.gradle\caches\transforms-3\175d189b8347bb7ab1f59dad2ae52465\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+173            android:value="@integer/google_play_services_version" />
+173-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\tfija\.gradle\caches\transforms-3\175d189b8347bb7ab1f59dad2ae52465\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+174
+175        <provider
+175-->[com.squareup.picasso:picasso:2.71828] C:\Users\tfija\.gradle\caches\transforms-3\b4e0d6342a7fe7f29e2acac2a2c84766\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+176            android:name="com.squareup.picasso.PicassoProvider"
+176-->[com.squareup.picasso:picasso:2.71828] C:\Users\tfija\.gradle\caches\transforms-3\b4e0d6342a7fe7f29e2acac2a2c84766\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+177            android:authorities="com.example.uniapp.com.squareup.picasso"
+177-->[com.squareup.picasso:picasso:2.71828] C:\Users\tfija\.gradle\caches\transforms-3\b4e0d6342a7fe7f29e2acac2a2c84766\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+178            android:exported="false" />
+178-->[com.squareup.picasso:picasso:2.71828] C:\Users\tfija\.gradle\caches\transforms-3\b4e0d6342a7fe7f29e2acac2a2c84766\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+179        <provider
+179-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\04723e16c15e594b1dbca9340658891b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+180            android:name="androidx.startup.InitializationProvider"
+180-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\04723e16c15e594b1dbca9340658891b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+181            android:authorities="com.example.uniapp.androidx-startup"
+181-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\04723e16c15e594b1dbca9340658891b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+182            android:exported="false" >
+182-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\04723e16c15e594b1dbca9340658891b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+183            <meta-data
+183-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\04723e16c15e594b1dbca9340658891b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+184                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+184-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\04723e16c15e594b1dbca9340658891b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+185                android:value="androidx.startup" />
+185-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tfija\.gradle\caches\transforms-3\04723e16c15e594b1dbca9340658891b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+186            <meta-data
+186-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\tfija\.gradle\caches\transforms-3\6fee1ad45846257c7e55e1e5ecd6be9b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+187                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+187-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\tfija\.gradle\caches\transforms-3\6fee1ad45846257c7e55e1e5ecd6be9b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+188                android:value="androidx.startup" />
+188-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\tfija\.gradle\caches\transforms-3\6fee1ad45846257c7e55e1e5ecd6be9b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+189        </provider>
+190    </application>
+191
+192</manifest>

@@ -4,12 +4,14 @@
     >
 
     <item
-        android:contentDescription="Refresh"
+        android:id="@+id/profile_icon"
         android:icon="@drawable/profile_icon_foreground"
-        android:title="Profile"
+        android:title="@string/title"
         app:showAsAction="ifRoom" />
 
     <item
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        android:id="@+id/search_icon"
         android:icon="@drawable/search1"
         android:title="Search"
         app:showAsAction="ifRoom" />

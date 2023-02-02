@@ -1,17 +1,26 @@
 package com.example.uniapp
 
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
 
 class TabAdapter (activity: AppCompatActivity) : FragmentStateAdapter(activity) {
 
+    val activity = activity
     override fun createFragment(index: Int): Fragment {
 
-        return MyCategories()
+        Log.d("TAG", "TAb index: $index")
+        if (index < 2) {
+            return MyCategories(activity, index)
+        } else if (index == 3) {
+            return FavouritesFragment(activity)
+        } else if (index == 2) {
+            return WordsFragment(activity)
+        }
+        return MyCategories(activity, index)
     }
 
-    // get item count - equal to number of tabs
     override fun getItemCount(): Int
     {
         return 4

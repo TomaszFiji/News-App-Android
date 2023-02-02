@@ -127,7 +127,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/favourite_words_label"
-                android:textColor="#7CB342"
+                android:textColor="@color/black"
                 android:textSize="20sp"
                 android:textStyle="bold" />
 
@@ -145,20 +145,19 @@
                 android:orientation="horizontal">
 
                 <EditText
+                    android:textColor="@color/black"
                     android:id="@+id/favourite_categories_edit_text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:hint="@string/favourite_word_hint"
                     android:inputType="text"
-                    android:minHeight="48dp"
-                    android:textColor="@color/black"
-                    android:textColorHint="#F8BBD0" />
+                    android:minHeight="48dp" />
 
                 <com.google.android.material.button.MaterialButton
                     android:textColor="@color/black"
                     android:id="@+id/add_word_button"
                     android:layout_width="wrap_content"
-                    android:layout_height="48dp"
+                    android:layout_height="wrap_content"
                     android:text="@string/update_button" />
             </androidx.appcompat.widget.LinearLayoutCompat>
 

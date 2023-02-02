@@ -27,29 +27,29 @@
             android:background="@color/pallete4_color5">
 
             <com.google.android.material.textview.MaterialTextView
-                android:id="@+id/materialTextView4"
+                android:id="@+id/title_thumbnail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="@string/title"
                 android:textAllCaps="true"
                 android:textColor="@color/black"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
             <com.google.android.material.textview.MaterialTextView
-                android:id="@+id/materialTextView3"
+                android:id="@+id/author_thumbnail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="@string/publisher"
-                android:textColor="#2F2F2F"
-                android:textSize="16dp"
+                android:textColor="#000000"
+                android:textSize="16sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/materialTextView4" />
+                app:layout_constraintTop_toBottomOf="@+id/title_thumbnail" />
 
             <androidx.appcompat.widget.LinearLayoutCompat
                 android:id="@+id/linearLayoutCompat"
@@ -58,33 +58,35 @@
                 android:orientation="horizontal"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/materialTextView3">
+                app:layout_constraintTop_toBottomOf="@+id/author_thumbnail">
 
                 <androidx.appcompat.widget.AppCompatImageView
-                    android:id="@+id/appCompatImageView"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:id="@+id/thumbnail_image"
+                    android:layout_width="200dp"
+                    android:layout_height="140dp"
                     android:layout_margin="5dp"
-                    android:src="@mipmap/sample_image" />
+                    android:src="@mipmap/sample_image"
+                    tools:ignore="ImageContrastCheck" />
 
                 <com.google.android.material.textview.MaterialTextView
-                    android:id="@+id/materialTextView"
+                    android:layout_gravity="center"
+                    android:id="@+id/thumbnail_summary"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/short_paragraph"
                     android:textColor="@color/black"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
             </androidx.appcompat.widget.LinearLayoutCompat>
 
             <com.google.android.material.textview.MaterialTextView
-                android:id="@+id/materialTextView2"
+                android:id="@+id/thumbnail_time"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
                 android:gravity="left"
                 android:text="@string/minutes_ago"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/linearLayoutCompat" />
@@ -113,6 +115,7 @@
                 android:adjustViewBounds="true"
                 android:background="@color/design_default_color_background"
                 android:backgroundTint="@color/pallete4_color5"
+                android:contentDescription="@string/share"
                 android:minWidth="48dp"
                 android:minHeight="48dp"
                 android:scaleType="centerCrop"
@@ -122,6 +125,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/linearLayoutCompat" />
 
             <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/like_button"
                 android:layout_width="48dp"
                 android:layout_height="48dp"
                 android:layout_marginEnd="3dp"

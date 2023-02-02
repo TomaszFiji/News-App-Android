@@ -23,7 +23,7 @@
             android:id="@+id/tab_layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/pallete4_color5"
+            android:background="@color/pallete4_color3"
             app:tabIndicatorColor="@color/black"
             app:tabSelectedTextColor="@color/black" />
 
@@ -32,25 +32,9 @@
     <androidx.viewpager2.widget.ViewPager2
         android:id="@+id/pager"
         android:layout_width="match_parent"
-        android:layout_height="600dp" />
+        android:layout_height="match_parent"
+        android:layout_marginBottom="10dp"/>
 
-    <androidx.appcompat.widget.LinearLayoutCompat
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-
-        <Button
-            android:layout_width="100dp"
-            android:layout_height="20dp"
-            android:layout_margin="5dp"
-            android:onClick="lunchA2" />
-
-        <Button
-            android:layout_width="100dp"
-            android:layout_height="20dp"
-            android:layout_margin="5dp"
-            android:onClick="lunchA3" />
-    </androidx.appcompat.widget.LinearLayoutCompat>
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>

@@ -4,29 +4,19 @@ class MyModel {
     var modelName: String? = null
     private var modelImage: Int = 0
 
-    /*
-     * Return the team name
-     */
-    fun getNames(): String {
+    fun getName(): String {
         return modelName.toString()
     }
 
-    /*
-     * Set a team name
-     */
-    fun setNames(name: String) {
+    fun setName(name: String) {
         this.modelName = name
     }
 
-    /* Return a team logo
-     */
-    fun getImages(): Int {
+    fun getImage(): Int {
         return modelImage
     }
 
-    /* Set a team logo
-     */
-    fun setImages(image_drawable: Int) {
+    fun setImage(image_drawable: Int) {
         this.modelImage = image_drawable
     }
 }

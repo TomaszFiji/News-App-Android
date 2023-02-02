@@ -1837,7 +1837,6 @@
     <string name="title">Title... ipsum dolor sit amet, consectetur adipiscing.</string>
     <string name="tvTitle">TV Screen</string>
     <string name="update_button">Add</string>
-    <string name="word">Word</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="AndroidThemeColorAccentYellow" ns1:ignore="NewApi">

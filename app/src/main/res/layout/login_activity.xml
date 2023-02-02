@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/pallete4_color4"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="1dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/login_header"
+        android:textColor="@color/black"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+
+        android:layout_margin="10dp"
+        android:outlineAmbientShadowColor="@color/pallete4_color5"
+        android:background="@color/pallete4_color4"
+        android:elevation="8dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <EditText
+            android:id="@+id/email_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints="emailAddress"
+            android:hint="@string/email_hint"
+            android:inputType="textEmailAddress"
+            android:minHeight="48dp"
+            android:padding="8dp"
+            android:textColorHint="#212121" />
+
+        <EditText
+            android:id="@+id/password_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints="password"
+            android:hint="@string/password_hint"
+            android:inputType="textPassword"
+            android:minHeight="48dp"
+            android:padding="8dp"
+            android:textColorHint="#212121" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:onClick="login"
+        android:text="@string/login_button"
+        android:textColor="#000000" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/register_prompt"
+        android:textColor="#212121"
+        android:textSize="16sp" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/register_button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:onClick="register"
+        android:text="@string/register_button"
+        android:textColor="#000000"
+        app:strokeColor="@color/pallete4_color4" />
+    <View
+        android:layout_width="1dp"
+        android:layout_height="100dp"/>
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/starndardLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:onClick="starndardLogin"
+        android:text="@string/standerd_login"
+        android:textColor="#000000" />
+
+</LinearLayout>
+
+

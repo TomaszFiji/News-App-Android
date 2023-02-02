@@ -3,8 +3,8 @@
     <string-array name="tabTitles">
         <item>All categories</item>
         <item>My categories</item>
-        <item>My publishers</item>
-        <item>My newsletters</item>
+        <item>For You Page</item>
+        <item>Liked Articles</item>
     </string-array>
     <color name="black">#FF000000</color>
     <color name="pallete1_color1">#D3BDB0</color>
@@ -22,11 +22,16 @@
     <color name="pallete3_color3">#F2B880</color>
     <color name="pallete3_color4">#FFF4EC</color>
     <color name="pallete3_color5">#E7CFBC</color>
-    <color name="pallete4_color1">#F0F2EF</color>
-    <color name="pallete4_color2">#5C5346</color>
-    <color name="pallete4_color3">#AFD5AA</color>
-    <color name="pallete4_color4">#A69F98</color>
-    <color name="pallete4_color5">#8C6057</color>
+    <color name="pallete4_color1">#861388</color>
+    <color name="pallete4_color2">#90323D</color>
+    <color name="pallete4_color3">#D9CAB3</color>
+    <color name="pallete4_color4">#BC8034</color>
+    <color name="pallete4_color5">#8C7A6B</color>
+    <color name="pallete5_color1">#F0F2EF</color>
+    <color name="pallete5_color2">#5C5346</color>
+    <color name="pallete5_color3">#AFD5AA</color>
+    <color name="pallete5_color4">#A69F98</color>
+    <color name="pallete5_color5">#8C6057</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -35,44 +40,80 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="also_like">You might also like</string>
-    <string name="app_name">AppBar</string>
-    <string name="cat1">UK News</string>
-    <string name="cat10">Environment</string>
+    <string name="apiKey1">e5787b295b6bfec78e4ae490495cbe56</string>
+    <string name="apiKey2">d321d91664ea1aa273ee5d2b3b3112f2</string>
+    <string name="app_name">News App</string>
+    <string name="cat1">Country News</string>
+    <string name="cat10">missing</string>
     <string name="cat2">World News</string>
-    <string name="cat3">Sport</string>
-    <string name="cat4">Culture</string>
-    <string name="cat5">UK Politics</string>
-    <string name="cat6">Life Style</string>
-    <string name="cat7">Education</string>
+    <string name="cat3">Business</string>
+    <string name="cat4">Entertainment</string>
+    <string name="cat5">General</string>
+    <string name="cat6">Health</string>
+    <string name="cat7">Sports</string>
     <string name="cat8">Science</string>
-    <string name="cat9">Coronavirus</string>
+    <string name="cat9">Technology</string>
+    <string name="channel_description">Get notified when new articles are available</string>
+    <string name="channel_name">News updates</string>
+    <string name="country_hint">Enter country</string>
+    <string name="country_label">Your country:</string>
+    <string name="default_web_client_id" translatable="false">1054987840329-k6edeoe3oligo6qq9qji3r4lf6icjcn8.apps.googleusercontent.com</string>
+    <string name="email_hint">Email</string>
+    <string name="email_hint_profile">Enter email</string>
+    <string name="email_label">Your email:</string>
     <string name="example1">Example 1</string>
     <string name="example2">Example 2</string>
     <string name="example3">Example 3</string>
+    <string name="favourite_categories_hint">Enter favourite categories</string>
+    <string name="favourite_categories_label">Favourite categories:</string>
+    <string name="favourite_word_hint">Enter favourite word</string>
+    <string name="favourite_words_label">"Favourite words: "</string>
     <string name="gameTitle">Games Screen</string>
+    <string name="gcm_defaultSenderId" translatable="false">1054987840329</string>
+    <string name="google_api_key" translatable="false">AIzaSyAgNEWRNL-6P1Jh3_DuZ65dz-xbGTqkX6k</string>
+    <string name="google_app_id" translatable="false">1:1054987840329:android:a2f01fe245fa02a118c898</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAgNEWRNL-6P1Jh3_DuZ65dz-xbGTqkX6k</string>
+    <string name="google_storage_bucket" translatable="false">newsapp-28260.appspot.com</string>
     <string name="link">The Link was clicked</string>
     <string name="linked">Linked Accounts</string>
+    <string name="logOut">Log Out</string>
     <string name="log_xml">Log Off</string>
+    <string name="loged_in">No one loged in</string>
+    <string name="login_button">Log In</string>
+    <string name="login_header">Log in to News App</string>
     <string name="logoff">Logoff was clicked</string>
     <string name="minutes_ago">x minutes ago</string>
     <string name="movTitle">Movies Screen</string>
+    <string name="name_hint">Enter name</string>
+    <string name="name_label">Name:</string>
+    <string name="notification_text">There are new articles in your subscribed categories</string>
+    <string name="notification_title">New articles available</string>
     <string name="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus tellus vel libero ultrices, ac sodales felis sodales. Cras luctus dolor justo, et maximus lorem dictum sed. Aenean nisl lacus, faucibus in quam vel, hendrerit semper diam. Vestibulum vehicula volutpat felis eu efficitur. Pellentesque porttitor est id massa accumsan congue. Aliquam lobortis turpis in metus porta, ut egestas massa luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed justo porttitor, semper sapien sit amet, euismod diam. Sed ut arcu ultricies, accumsan tellus quis, aliquam sem. Nulla a pharetra ligula, quis tincidunt magna. Nunc laoreet sollicitudin neque, eu tristique tortor auctor vel. Morbi tempor vehicula erat, ac tristique dolor rutrum at. Nunc magna nibh, mollis vitae ligula sed, egestas accumsan tellus. Nunc rutrum aliquet fermentum.</string>
     <string name="paragraph2">Nulla aliquet, tortor non elementum dictum, sapien ipsum scelerisque arcu, imperdiet congue mi lorem eu leo. Ut dolor erat, feugiat eu consectetur sed, feugiat vel turpis. Phasellus dignissim pellentesque tortor, vel fermentum nibh pellentesque non. Nunc sit amet dapibus ante. Phasellus faucibus nisi at elit commodo mattis. Mauris lacinia rutrum nunc nec tincidunt. Nullam vehicula tellus id erat porta, sit amet semper odio auctor. Vivamus pharetra tortor sit.</string>
+    <string name="password_hint">Password</string>
     <string name="profile">Profile Icon was clicked</string>
+    <string name="profile_title">Your Profile</string>
     <string name="profile_xml">Profile Page</string>
+    <string name="project_id" translatable="false">newsapp-28260</string>
     <string name="publisher">BBC</string>
     <string name="refresh">Refresh Icon was clicked</string>
     <string name="refresh_xml">Refresh</string>
+    <string name="register_button">Sign Up</string>
+    <string name="register_prompt">Don\'t have an account?</string>
     <string name="settings_xml">Settings</string>
+    <string name="share">Share article</string>
     <string name="short_paragraph">Sed ornare felis metus, ac porttitor leo venenatis sed. Ut malesuada maximus nisl in ultrices. Ut ac vulputate libero. Ut scelerisque justo erat, quis ullamcorper nulla gravida at. Donec lobortis urna a dictum sagittis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.</string>
     <string name="sport">Sport</string>
+    <string name="standerd_login">Use premade account</string>
     <string name="start">Tap an item from action bar menu</string>
     <string name="subscribe">SUBSCRIBE</string>
+    <string name="testNotif">Test Notifications</string>
     <string name="title">Title... ipsum dolor sit amet, consectetur adipiscing.</string>
     <string name="tvTitle">TV Screen</string>
+    <string name="update_button">Add</string>
     <style name="Theme.UniApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         
-        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimary">@color/pallete4_color5</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/white</item>
         

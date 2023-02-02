@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.uniapp-mergeDebugResources-28:/values-v16/values-v16.xml",
+            "outputFile": "com.example.uniapp-mergeDebugResources-34:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tfija\\.gradle\\caches\\transforms-3\\6a19de105318aab1da00cfa3c60fb56e\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\tfija\\.gradle\\caches\\transforms-3\\17e0468e6f8477414592a37caea74940\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\tfija\\.gradle\\caches\\transforms-3\\685980b024686d78956b91eec9b43f3b\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\tfija\\.gradle\\caches\\transforms-3\\657a435f1f2548717eca968888beb204\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
